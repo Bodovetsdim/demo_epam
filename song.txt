@@ -1,4 +1,2 @@
-привет 
-я не дима
-привет 
-я оля
+﻿HELLO WORLD
+HELLOO DIMA
